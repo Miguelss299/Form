@@ -81,3 +81,15 @@ body{
         top:50%;
     }
 }
+
+/* Media Query's */
+
+@media ( min-width:410px){
+    #form{
+        width:58%;
+        height: 70%;
+    }
+    .input input{
+        min-width: 10rem;
+    }
+}
